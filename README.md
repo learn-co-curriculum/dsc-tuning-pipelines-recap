@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes key takeaways from section 39.
+This short lesson summarizes key takeaways from this section on creating machine learning pipelines.
 
 ## Objectives
 You will be able to:
